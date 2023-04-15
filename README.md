@@ -8,7 +8,7 @@ To use the 4-way linked list, first clone the repository:
 
 git clone https://github.com/emsherry/4-way-linked-list.git
 
-Then compile and run the main file `main.c` using a C compiler:
+Then compile and run the main file `4-way-linked ist.cpp` using a C++ compiler:
 
 gcc main.c -o main
 ./main
